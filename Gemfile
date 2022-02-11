@@ -21,7 +21,7 @@ gem 'rails', '5.2.2'
 gem 'mysql2', '0.4.10'
 
 
-gem 'puma', '~> 3.0'
+gem 'puma', '~> 5.6'
 
 
 
